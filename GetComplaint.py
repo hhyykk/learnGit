@@ -1,5 +1,6 @@
 import datetime
 import csv
+#"2052"
 import requests as req
 cookie = dict(cookies_are=open('WaveCookie.txt','r').read())
 ListUrl = 'https://wave.xiaojukeji.com/v2/dc/driverdiagnosis/driverlist'
